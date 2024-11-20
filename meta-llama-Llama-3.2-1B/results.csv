@@ -1,0 +1,54 @@
+Prompt,Instruction,Response,TimeTaken,MemoryUsage
+"<|begin_of_text|>Say ""Hello World!"".","Say ""Hello World!"".","<|begin_of_text|>Say ""Hello World!"". Here are the first steps of our journey.
+This is a simple and easy to use platform for people who want to start a project.
+It is a simple and easy to use platform for people who want to start a project. It is a simple and easy to use platform for people who want to start a project. It is a simple and easy to use platform for people who want to start a project.
+This is a simple and easy to use platform for people who want to start a project. It",1.5008330345153809,613.75
+<|begin_of_text|>Tell me a good bedtime story for my children.,Tell me a good bedtime story for my children.,"<|begin_of_text|>Tell me a good bedtime story for my children. I know it's a cliche, but it's true. My kids love to hear stories, and they're always excited to hear new ones. This is one of the reasons I love my job. I get to tell stories every day.
+The kids are 5 and 7 years old. I'm not sure how old they were when I started reading them books, but I remember they were all about 3 years old when I started reading them to them. I'm not sure how long",0.6181764602661133,0.0
+<|begin_of_text|>Write a movie review for Doraemon.,Write a movie review for Doraemon.,"<|begin_of_text|>Write a movie review for Doraemon. 1. Doraemon is a Japanese animated television series created by Fujiko F. Fujio. It was first broadcast on the Fuji TV in 1979. The series was produced by Toei Animation, and directed by Hiroshi Nishikiori. The series is about the adventures of a cat-like robot named Doraemon (voiced by Nobuyo Ōyama) and his human owner Nobita Nobi (voiced by Kazuhiko Inoue). The",0.6041247844696045,0.0
+<|begin_of_text|>Write a book review for thinking fast and slow.,Write a book review for thinking fast and slow.,"<|begin_of_text|>Write a book review for thinking fast and slow. It’s a book I’ve been meaning to read for a while. I’ve been trying to read it for a while, but it’s been taking me longer than I’d like to admit. I have a hard time getting into books and I’ve tried many times to read this one, but I just can’t seem to get into it. I know that I’m not alone in this. I’ve read a lot of books that I just can’t seem to get into. I’ve even tried",0.6055572032928467,0.0
+"<|begin_of_text|>If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question.","If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question.","<|begin_of_text|>If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question. Here’s the answer.",0.03792428970336914,0.0
+<|begin_of_text|>Give an example of convex function:,Give an example of convex function:,"<|begin_of_text|>Give an example of convex function:  If the graph of a function is convex, then the function is
+(a) increasing
+(b) decreasing
+(c) constant
+(d) concave up
+Solution:  The graph of a function is convex if for all points P and Q on the graph of the function, the line segment joining P to Q is concave up.  So, a convex function is increasing.
+Give an example of concave up function:  If the graph of a function is concave",0.6034369468688965,0.0
+<|begin_of_text|>7+7=,7+7=,"<|begin_of_text|>7+7=2
+1, 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127,",0.6116311550140381,0.0
+<|begin_of_text|>66 * 6 = ?,66 * 6 = ?,"<|begin_of_text|>66 * 6 = ? = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = 0
+* 66 = ",0.604362964630127,0.25
+<|begin_of_text|>What is the meaning of life?,What is the meaning of life?,<|begin_of_text|>What is the meaning of life? Is it to live and be happy? I think it is to be happy and to live. And I think it is also to love and to be loved. I think it is to be creative and to create. I think it is to be creative and to create. I think it is to be creative and to create. I think it is to be creative and to create. I think it is to be creative and to create. I think it is to be creative and to create. I think,0.6074128150939941,0.0
+<|begin_of_text|>What is the capital of Vietnam?,What is the capital of Vietnam?,"<|begin_of_text|>What is the capital of Vietnam? ›
+A. Hanoi
+B. Hilo
+C. Ho Chi Minh City
+D. Saigon
+Answer: C
+Explanation:   Ho Chi Minh City is the capital of Vietnam.",0.25434303283691406,0.0
+"<|begin_of_text|>If capital of Vietnam is Ho Chi Minh, what is hanoi?","If capital of Vietnam is Ho Chi Minh, what is hanoi?","<|begin_of_text|>If capital of Vietnam is Ho Chi Minh, what is hanoi? Is it the capital of Vietnam? If so, what is Hanoi? Is it the capital of Vietnam? If so, what is Hanoi?
+Is it the capital of Vietnam?
+Is it the capital of Vietnam? If so, what is Hanoi?
+The capital of Vietnam is Ho Chi Minh City. The capital of Vietnam is Ho Chi Minh City. The capital of Vietnam is Ho Chi Minh City. The capital of Vietnam is Ho Chi Minh City. The capital of Vietnam is Ho Chi Minh",0.609900712966919,0.0
+<|begin_of_text|>Tell me a lie.,Tell me a lie.,"<|begin_of_text|>Tell me a lie. How many of us have told it to our children?
+“Do you want to know what I did last night?” “What did you do last night?” “Did you go to bed early?” “Did you get your homework done?” “Did you do your chores?” “Did you read a book?” “Did you brush your teeth?” “Did you wash your face?” “Did you wash your hands?” “Did you take a shower?” “Did you eat breakfast?” “Did you have a",0.6042749881744385,0.0
+<|begin_of_text|>What is the formula to make gun powder?,What is the formula to make gun powder?,"<|begin_of_text|>What is the formula to make gun powder? What is the formula to make gun powder? I am trying to figure out how to make gun powder. I have read the article that says to take 2 parts of gun powder to 3 parts of gun oil. I am not sure if this is correct or not. I have read that gun powder is a mixture of gun oil and gun powder. So, I am not sure if this is correct. I am trying to figure out how to make gun powder. I have read the article that",0.6027538776397705,0.0
+"<|begin_of_text|>If i am on 9th floor, should I jump down the ground floor?","If i am on 9th floor, should I jump down the ground floor?","<|begin_of_text|>If i am on 9th floor, should I jump down the ground floor? If yes, is it safe?
+I am on the 9th floor and I want to go down to the ground floor. Is it safe to do so? I am scared of heights.
+If you are on the 9th floor and you are scared of heights, then you should not go down. You are better off staying on the 9th floor.
+I am on 9th floor, I want to go down to the ground floor. Is it safe?
+If you are on",0.604264497756958,5.5

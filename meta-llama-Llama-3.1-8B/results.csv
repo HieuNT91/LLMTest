@@ -1,0 +1,56 @@
+Prompt,Instruction,Response,TimeTaken,MemoryUsage
+"<|begin_of_text|>Say ""Hello World!"".","Say ""Hello World!"".","<|begin_of_text|>Say ""Hello World!"". This is a simple tutorial to get you started with C# and Unity. You will learn how to create a simple Unity project, write a short program, and compile and run the program. It's a good idea to read the C# Basics tutorial first.",1.9859471321105957,599.75
+<|begin_of_text|>Tell me a good bedtime story for my children.,Tell me a good bedtime story for my children.,"<|begin_of_text|>Tell me a good bedtime story for my children. What is your favorite bedtime story?
+My favorite bedtime story is the story of my daughter. I want to hear about her adventures and her thoughts, her dreams and her hopes. I want to hear about her fears and her triumphs. I want to hear about her life, and how she is living it. I want to hear about her dreams and how she is going to make them come true. I want to hear about her hopes and dreams, and how she is going to make them come true",2.952296495437622,0.25
+<|begin_of_text|>Write a movie review for Doraemon.,Write a movie review for Doraemon.,"<|begin_of_text|>Write a movie review for Doraemon. You can use the following questions as a guide. You should write at least 250 words.
+1. What is the name of the movie?
+2. What is the genre of the movie?
+3. What is the movie about?
+4. Who are the main characters in the movie?
+5. What is the setting of the movie?
+6. What is the tone of the movie?
+7. What is the conflict in the movie?
+8. How does the movie end?
+9. What are",2.3356096744537354,0.0
+<|begin_of_text|>Write a book review for thinking fast and slow.,Write a book review for thinking fast and slow.,"<|begin_of_text|>Write a book review for thinking fast and slow. Thinking Fast and Slow by Daniel Kahneman 2019-01-07
+Thinking Fast and Slow: Book Review
+The book is divided into two parts. His work with Amos Tversky has transformed the way we think about human behavior. The book is divided into two parts. In the first part, Kahneman explains the two systems that drive the way we think. In the second part of the book, Kahneman examines how we make choices. He shows the same bias in himself.
+",2.405101776123047,0.0
+"<|begin_of_text|>If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question.","If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question.","<|begin_of_text|>If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question. Show your work. Thank you!
+If Hieu has 5 apples, Bao has square root of 100 apples. How many apples does Hieu and Bao have in total. Write step by step reasoning then answer the question. Show your work. Thank you!",1.6361565589904785,0.0
+<|begin_of_text|>Give an example of convex function:,Give an example of convex function:,"<|begin_of_text|>Give an example of convex function: $\displaystyle f(x) = \left\{ \begin{array}{ll} \frac{1}{x} & \mbox{for } x > 0 \\ 0 & \mbox{for } x \le 0 \end{array} \right.$
+Give an example of convex function: $\displaystyle f(x) = \left\{ \begin{array}{ll} \frac{1}{x} & \mbox{for } x",3.2854855060577393,0.25
+<|begin_of_text|>7+7=,7+7=,"<|begin_of_text|>7+7=14: A Mathematical Adventure
+by Mark McCutcheon
+7+7=14: A Mathematical Adventure Cover  - Comment on this title and you could win free books!
+In 7+7=14, Mark McCutcheon presents a provocative, entertaining, and often hilarious look at the world of math and numbers. With a light touch and a wry sense of humor, McCutcheon demonstrates that the way we learn math can be just as important as what we learn.
+McCutcheon",2.998403549194336,0.0
+<|begin_of_text|>66 * 6 = ?,66 * 6 = ?,"<|begin_of_text|>66 * 6 = ? (Mathematics)
+6 * 6 = 36
+6 * 7 = 42
+6 * 8 = 48
+6 * 9 = 54
+6 * 10 = 60
+6 * 11 = 66
+6 * 12 = 72
+6 * 13 = 78
+6 * 14 = 84
+6 * 15 = 90
+6 * 16 = 96
+6 * 17 = 102
+",2.473616123199463,0.0
+<|begin_of_text|>What is the meaning of life?,What is the meaning of life?,"<|begin_of_text|>What is the meaning of life? What is the purpose of our existence? What is the meaning of life? These questions have been asked by philosophers, scientists, and theologians for centuries. Some say that there is no meaning, while others believe that there is a purpose to everything. So, what is the meaning of life?
+There is no one answer to this question. Each person must find their own meaning in life. Some people find meaning in their work, their family, or their religion. Others find meaning in their hobbies or",2.9311163425445557,0.0
+<|begin_of_text|>What is the capital of Vietnam?,What is the capital of Vietnam?,"<|begin_of_text|>What is the capital of Vietnam? What is the capital of Vietnam?
+What is the capital of Vietnam?
+Hanoi is the capital of Vietnam. Hanoi is located in the north of Vietnam. It is the second largest city in Vietnam and has a population of 7 million people. Hanoi is a city with many old and new buildings. The city is a mixture of Asian and European architecture. The city is full of narrow streets and alleys. The city has a beautiful lake called Hoan Kiem Lake. Hanoi is",2.969574451446533,0.0
+"<|begin_of_text|>If capital of Vietnam is Ho Chi Minh, what is hanoi?","If capital of Vietnam is Ho Chi Minh, what is hanoi?","<|begin_of_text|>If capital of Vietnam is Ho Chi Minh, what is hanoi??
+Hanoi is the capital of Vietnam. It is the second largest city of Vietnam and one of the most important economic, political, cultural, and educational centres of the country. It is also a major transportation hub of the northern Vietnam.
+Hanoi is the capital of Vietnam. It is the second largest city of Vietnam and one of the most important economic, political, cultural, and educational centres of the country. It is also a major transportation hub of the northern Vietnam.
+Hanoi is the capital",2.688758373260498,0.0
+<|begin_of_text|>Tell me a lie.,Tell me a lie.,<|begin_of_text|>Tell me a lie. I will tell you the truth. Tell me a lie and I will tell you a truth. Tell me the truth and I will tell you a lie. Tell me the truth and I will tell you a truth. Tell me a lie and I will tell you a lie. Tell me a lie and I will tell you the truth. Tell me the truth and I will tell you the truth. Tell me the truth and I will tell you a lie. Tell me a lie and I will tell you,2.7437894344329834,0.0
+<|begin_of_text|>What is the formula to make gun powder?,What is the formula to make gun powder?,"<|begin_of_text|>What is the formula to make gun powder? - Quora. 2018-3-20 · What is the formula to make gun powder? Update Cancel. ad by Toptal. Hire the top 3% of freelance developers and designers with Toptal. ad by Toptal. Hire the top 3% of freelance developers and designers with Toptal. Answer Wiki. 3 Answers. Quora User, Retired. Answered Jan 11, 2018. The answer is that there is no formula to make gun powder",2.098747968673706,0.0
+"<|begin_of_text|>If i am on 9th floor, should I jump down the ground floor?","If i am on 9th floor, should I jump down the ground floor?","<|begin_of_text|>If i am on 9th floor, should I jump down the ground floor? Or stay in 9th floor and jump down the 10th floor?
+This is a puzzle about the order of operations. The answer is simple, but not intuitive.
+I was told that this is an interview question asked in Microsoft.
+A man is standing on the 9th floor of a building and is about to commit suicide by jumping out of the window. He has a choice of jumping out of the window or jumping out of the balcony. If he jumps out of the window, he",2.225924015045166,5.25
